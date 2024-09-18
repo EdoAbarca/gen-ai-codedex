@@ -1,0 +1,1 @@
+print("ChatGPT has been supporting me since it's release. 4o is quite capable, so I'm looking forward for the release of o1 model.")
